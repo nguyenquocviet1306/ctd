@@ -1,0 +1,8 @@
+Program Example1; (* Example 1 *)
+Var  N:INTEGER;
+	 S:INTEGER;
+Begin
+	S:= 0;
+	FOR N:=0 TO 5 DO
+		S:=S+1;
+End. (* Example 1 *)
